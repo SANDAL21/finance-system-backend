@@ -1,10 +1,6 @@
 '''
-The code script outlines the task for internship application for Zorvyn.
 Author - Himanshu Sandal
-Date - 04 / 04 / 2026
-
 Stack used = Fast API
-Purpose - Internship Task
 
 '''
 
